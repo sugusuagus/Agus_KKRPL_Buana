@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Format Text</title>
+    <style type="text/css">
+     h1{
+       text-align: center;
+     }
+     h2{
+       text-align: right;
+     }
+     h3{
+       text-align: left;
+     }
+    </style>
+  </head>
+  <body>
+    <h1>Header 1, Ditengah</h1>
+    <h2>Header 2, Kanan</h2>
+    <h3>Header 3, Kiri</h3>
+  </body>
+</html>

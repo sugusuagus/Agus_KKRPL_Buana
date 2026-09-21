@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Format Text</title>
+    <style type="text/css">
+    p.besar{
+      text-transform: uppercase;
+    }
+    p.kecil{
+      text-transform: lowercase;
+    }
+    </style>
+  </head>
+  <body>
+    <p class="besar">mengubah kedalam huruf besar</p>
+    <p class="kecil">MENGUBAH KEDALAM HURUF KECIL</p>
+  </body>
+</html>

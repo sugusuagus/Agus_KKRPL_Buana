@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Mengatur Margin</title>
+    <style type="text/css">
+      body{
+        margin-top: 1cm;
+        margin-right: 2cm;
+        margin-left: 1cm;
+        margin-bottom: 2cm;
+      }
+    </style>
+  </head>
+  <body>
+    Pengaturan Marin Halaman (1cm,2cm,3cm,4cm)
+  </body>
+</html>

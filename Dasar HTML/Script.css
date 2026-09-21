@@ -1,0 +1,27 @@
+body{
+    color: teal;
+    background-color:white ;
+    
+}
+  nav{
+    background-color: ;
+    margin: 0 15;
+    text-align: left;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  
+  nav a {
+    color:aqua;
+    text-decoration: none;
+    margin: 15px;
+  }
+  
+  section{
+    padding: 10px;
+    background-color: ;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+  }
+  
